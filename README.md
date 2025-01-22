@@ -50,11 +50,3 @@ Collaborated with a team to develop a **custom web-based VSCode IDE** and a serv
 
 ### Web Development
 - **HTML, CSS, Svelte, WebAssembly**
-
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
-
----
-
